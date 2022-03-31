@@ -1,5 +1,5 @@
 {
-  "name": "@nfort/react-autosuggest",
+  "name": "react-autosuggest",
   "version": "11.0.1",
   "description": "WAI-ARIA compliant React autosuggest component",
   "main": "dist/index.js",
